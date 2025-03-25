@@ -30,7 +30,7 @@ jupyter notebook medical-tool.ipynb
 
 ## API Keys 🔑  
 
-Ensure you have valid **Google API keys** for Geolocation, Places, and Distance Matrix services. Store them securely in an environment variable or a `.env` file.  
+Ensure you have valid **Google API keys** for Geolocation, Places, and Distance Matrix services. You can ask the owner of this Github repo for the API keys.   
 
 ## License 📜  
 
