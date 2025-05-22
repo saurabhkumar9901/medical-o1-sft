@@ -55,4 +55,6 @@ This project is licensed under the MIT License.
 
 [Yash Mishra](https://github.com/yash-mishraa)
 
+[Nishaant Singh](https://github.com/nishaantxd)
+
 
